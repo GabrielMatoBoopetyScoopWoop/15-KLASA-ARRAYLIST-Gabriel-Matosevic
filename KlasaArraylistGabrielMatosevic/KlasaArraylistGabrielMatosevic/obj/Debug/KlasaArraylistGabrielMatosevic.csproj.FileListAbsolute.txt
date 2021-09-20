@@ -1,0 +1,10 @@
+C:\Users\Mato\source\repos\KlasaArraylistGabrielMatosevic\KlasaArraylistGabrielMatosevic\bin\Debug\KlasaArraylistGabrielMatosevic.exe.config
+C:\Users\Mato\source\repos\KlasaArraylistGabrielMatosevic\KlasaArraylistGabrielMatosevic\bin\Debug\KlasaArraylistGabrielMatosevic.exe
+C:\Users\Mato\source\repos\KlasaArraylistGabrielMatosevic\KlasaArraylistGabrielMatosevic\bin\Debug\KlasaArraylistGabrielMatosevic.pdb
+C:\Users\Mato\source\repos\KlasaArraylistGabrielMatosevic\KlasaArraylistGabrielMatosevic\obj\Debug\KlasaArraylistGabrielMatosevic.csprojAssemblyReference.cache
+C:\Users\Mato\source\repos\KlasaArraylistGabrielMatosevic\KlasaArraylistGabrielMatosevic\obj\Debug\KlasaArraylistGabrielMatosevic.Form1.resources
+C:\Users\Mato\source\repos\KlasaArraylistGabrielMatosevic\KlasaArraylistGabrielMatosevic\obj\Debug\KlasaArraylistGabrielMatosevic.Properties.Resources.resources
+C:\Users\Mato\source\repos\KlasaArraylistGabrielMatosevic\KlasaArraylistGabrielMatosevic\obj\Debug\KlasaArraylistGabrielMatosevic.csproj.GenerateResource.cache
+C:\Users\Mato\source\repos\KlasaArraylistGabrielMatosevic\KlasaArraylistGabrielMatosevic\obj\Debug\KlasaArraylistGabrielMatosevic.csproj.CoreCompileInputs.cache
+C:\Users\Mato\source\repos\KlasaArraylistGabrielMatosevic\KlasaArraylistGabrielMatosevic\obj\Debug\KlasaArraylistGabrielMatosevic.exe
+C:\Users\Mato\source\repos\KlasaArraylistGabrielMatosevic\KlasaArraylistGabrielMatosevic\obj\Debug\KlasaArraylistGabrielMatosevic.pdb
